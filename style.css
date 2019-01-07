@@ -9,32 +9,32 @@
 }
 
 .navbar-brand {
-    color: #E18155;
+    color: white;
     font-size: 1.5em;
 }
 
 .navbar-brand:hover {
-    color: #8FBBA7;
-    font-size: 1.5em;
-}
-
-.navbar-brand:active {
-    color: #2A6459;
-    font-size: 1.5em;
-}
-
-.nav-link {
     color: #E18155;
     font-size: 1.5em;
 }
 
+.navbar-brand:active {
+    color: #e49571;
+    font-size: 1.5em;
+}
+
+.nav-link {
+    color: white;
+    font-size: 1.5em;
+}
+
 .nav-link:hover {
-    color: #8FBBA7;
+    color: #E18155;
     font-size: 1.5em;
 }
 
 .nav-link:active {
-    color: #2A6359;
+    color:  #e49571;
     font-size: 1.5em;
 }
 
@@ -107,7 +107,7 @@ p {
 }
 
 .btn {
-    background-color: #8FBBA7;
+    background-color: #E18155;
     border: none;
     border-radius: 0;
         font-family: mr-eaves-sans, sans-serif;
@@ -117,7 +117,7 @@ p {
 }
 
 .btn:hover {
-    background-color: #2A6359;
+    background-color:  #e49571;
     color: white;
 }
 
@@ -165,11 +165,3 @@ p {
 
   }
 
-/* Colors
-2A6359 - Teal
-8FBBA7 - Light Teal
-BACDCB - Light Blue
-F1DDCD - Tan
-FAAC8C - Light Coral
-E18155 - Coral
-/*
