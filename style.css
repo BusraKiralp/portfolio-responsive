@@ -121,6 +121,11 @@ p {
     color: white;
 }
 
+.btn:active {
+    background-color: #e49571;
+    color: white;
+}
+
 /* Footer */
 .circle {
     width: 200px;
